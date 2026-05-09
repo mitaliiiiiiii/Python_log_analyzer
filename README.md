@@ -9,25 +9,13 @@ Overview
 This project is a beginner-friendly cybersecurity tool developed using Python that analyzes log files to detect suspicious login activity. The tool scans logs for failed login attempts, extracts IP addresses using regular expressions, and identifies possible brute-force attack behavior based on repeated failures.
 The project is designed to simulate basic SOC (Security Operations Center) monitoring and introduce foundational concepts of log analysis and threat detection.
 Features
-Detects failed login attempts
-Extracts IP addresses from logs
-Counts repeated login failures
-Identifies suspicious activity
-Alerts possible brute-force attacks
-Lightweight and beginner-friendly
 
-
-Python Log Analyzer for Suspicious Activity Detection
-Overview
-This project is a beginner-friendly cybersecurity tool developed using Python that analyzes log files to detect suspicious login activity. The tool scans logs for failed login attempts, extracts IP addresses using regular expressions, and identifies possible brute-force attack behavior based on repeated failures.
-The project is designed to simulate basic SOC (Security Operations Center) monitoring and introduce foundational concepts of log analysis and threat detection.
-Features
-Detects failed login attempts
-Extracts IP addresses from logs
-Counts repeated login failures
-Identifies suspicious activity
-Alerts possible brute-force attacks
-Lightweight and beginner-friendly
+--Detects failed login attempts
+--Extracts IP addresses from logs
+--Counts repeated login failures
+--Identifies suspicious activity
+--Alerts possible brute-force attacks
+--Lightweight and beginner-friendly
 
 
 Technologies Used=
